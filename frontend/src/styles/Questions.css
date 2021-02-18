@@ -1,0 +1,22 @@
+.QuestionClass{
+    border: solid;
+	height: 65vh;
+	display: flex;
+	flex-direction: column;
+	border-color: #0044aa;
+	border-width: 5px;
+	border-radius: 30px;
+	width: 44%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	align-items: center;
+	justify-content: center;
+	background: #ffffff;
+}
+.InputAreaClass{
+    margin: 15px;
+width: 90%;
+height: 40%;
+font-size: 20px;
+}

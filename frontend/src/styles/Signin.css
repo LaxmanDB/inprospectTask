@@ -1,0 +1,29 @@
+.formContainer{
+    border: solid;
+	height: 73vh;
+	display: flex;
+	flex-direction: column;
+	border-color: #0044aa;
+	border-width: 5px;
+	border-radius: 30px;
+	width: 34%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	align-items: center;
+	justify-content: center;
+	background: #ffffff;
+}
+.account-form-fields{
+    display: flex;
+    flex-direction: column;
+}
+.inputClass{
+    margin: 10px;
+    padding: 20px;
+}
+.btn-submit-form{
+width: 150px;
+height: 40px;
+margin-left: 40px;
+}

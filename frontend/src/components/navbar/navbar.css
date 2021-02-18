@@ -1,0 +1,28 @@
+.navContainer{
+    display: flex;
+    position: relative;
+height: 10%;
+width: 100%;
+background-color:#0044AA ;
+align-items: center;
+}
+.singinLink{
+    position:absolute;
+    border: 2px solid orange;
+    padding: 15px;
+    right: 4%;
+    background-color: white;
+}
+.signinButton{
+    width: 100%;
+    height: 100%;
+    background-color:yellowgreen;
+}
+.QuestionLink{
+    position:absolute;
+    border: 2px solid orange;
+    padding: 15px;
+    right: 15%;
+    background-color: white;
+
+}

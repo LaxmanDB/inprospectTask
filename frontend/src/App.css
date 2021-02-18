@@ -1,0 +1,15 @@
+.navbarTop{
+    position: fixed;
+	vertical-align: top;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 100
+}
+
+.webContent{
+    top: 3.9rem;
+	position: relative;
+	
+	padding: 5px;
+}
